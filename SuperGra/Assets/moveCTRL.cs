@@ -21,10 +21,7 @@ public class moveCTRL : MonoBehaviour {
     }
 	//test
 	//merge conflict
-<<<<<<< HEAD
 		//merge conflict 2
-=======
 	//dsafsdf
 	//dsa
->>>>>>> origin/test
 }
