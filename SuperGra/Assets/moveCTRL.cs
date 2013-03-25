@@ -20,4 +20,5 @@ public class moveCTRL : MonoBehaviour {
         controller.Move(moveDirection * Time.deltaTime);
     }
 	//test
+	//merge conflict
 }
