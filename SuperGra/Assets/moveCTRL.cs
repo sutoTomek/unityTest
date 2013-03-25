@@ -19,4 +19,5 @@ public class moveCTRL : MonoBehaviour {
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
     }
+	//test
 }
